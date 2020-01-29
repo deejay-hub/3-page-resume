@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img alt="timeline demo" src="ResumeImage.png">
+  <img alt="timeline demo" src="ResumeImageHero.png">
 </p>
 
 
