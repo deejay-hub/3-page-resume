@@ -1,7 +1,6 @@
 <h3 align="center">
 	A 3-page Salesforce résumé template<br><br>
 </h3>
-
 <p align="center">
   <img alt="timeline demo" src="ResumeImageHero.png">
 </p>
