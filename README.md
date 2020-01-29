@@ -1,5 +1,5 @@
 <h3 align="center">
-	An 3-page Salesforce résumé template<br><br>
+	A 3-page Salesforce résumé template<br><br>
 </h3>
 
 <p align="center">
